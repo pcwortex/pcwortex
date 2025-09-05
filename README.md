@@ -16,7 +16,7 @@
 ## 🎯 Goals  
 - Expand my knowledge in **cloud computing and security**  
 - Build projects that make a real impact in everyday work  
-- Share knowledge with the community and keep growing as a developerrrrrrrrrrrrrrrrrrrrrrrrr  
+- Share knowledge with the community and keep growing as a developer
 
 ---
 
