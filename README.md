@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]  
+# 👋 Hi, I’m Sarunas  
 
 ## 🧑‍💻 About Me  
 - Passionate about **automation, programming, and technology**  
@@ -19,9 +19,9 @@
 - Share knowledge with the community and keep growing as a developer  
 
 ---
+
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pcwortex&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pcwortex&show_icons=true&theme=radical)  
 
 ## 💡 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcwortex&layout=compact&theme=radical)  
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pcwortex&layout=compact&theme=radical)  
